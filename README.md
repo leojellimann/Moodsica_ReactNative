@@ -56,6 +56,6 @@ Finally, once the user published his post, he and everyone can see his post and 
 
 I apologize for not sharing the code with you, but I hope you understand how much I enjoy building mobile app.
 On the first hand, because I built a full mobile app in React Native as a personal project just by myself.
-On the other hand, because I loved learning so many things thanks to the creation of this project.
+On the other hand, because I loved learning so many things thanks to the creation of this project as well as I loved to create a beautiful UI.
 
 I hope you enjoyed reading that with a wonderful song in your ears :)
