@@ -58,4 +58,4 @@ I apologize for not sharing the code with you, but I hope you understand how muc
 On the first hand, because I built a full mobile app in React Native as a personal project just by myself.
 On the other hand, because I loved learning so many things thanks to the creation of this project.
 
-I hope you enjoy reading that with a wonderful song in your ears :)
+I hope you enjoyed reading that with a wonderful song in your ears :)
