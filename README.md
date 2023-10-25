@@ -1,6 +1,6 @@
 # Moodsica_ReactNative
 
-(mobile app only availble on TestFlight for the moment. Check https://www.moodsica.com for more information)
+(Mobile app only availble on TestFlight for the moment. Check https://www.moodsica.com for more information)
 
 Moodsica is a social network mobile app I built and I am still upgrading it daily in React Native.
 Indeed, I started working on this app as a personal project in 2020.
