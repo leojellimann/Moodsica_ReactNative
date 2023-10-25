@@ -19,7 +19,7 @@ But you may wonder what does this app do ?
 
 I've always wanted to know which song my friends were listening to.
 Why ? By listening always the same songs, I ran out of music to listen.
-While you don't know what song to listen to, your friends around you listen musics that you've never heard of before.
+While you don't know what song to listen to, your friends around you listen to music that you've never heard of before.
 
 This mobile app started out as an app made for people who want to discover new songs for their tracklist.
 Little by little my idea on the subject grow bigger.
@@ -39,7 +39,7 @@ Once the user is logged in, he arrives on the main feed :
 
 ![home](https://user-images.githubusercontent.com/93252510/232731955-05b1a111-67d3-46f2-8a6a-8db7295d51aa.PNG)
 
-Here, you can find musics preview from users of the app.
+Here, you can find music previews from users of the app.
 You can also see at the bottom the preview currently playing by the user.
 
 A user can also create a new post :
