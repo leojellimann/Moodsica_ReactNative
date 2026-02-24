@@ -1,6 +1,8 @@
 # Moodsica_ReactNative
 
-(Mobile app only availble on TestFlight for the moment. Check https://www.moodsica.com for more information)
+Mobile app available on stores:
+App Store: https://apps.apple.com/fr/app/moodsica/id1638658305
+Play Store: https://play.google.com/store/apps/details?id=com.Moodsica
 
 Moodsica is a social network mobile app I built and I am still upgrading it daily in React Native.
 Indeed, I started working on this app as a personal project in 2020.
